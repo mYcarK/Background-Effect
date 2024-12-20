@@ -1,0 +1,23 @@
+#p1{
+height : 250px;
+background: linear-gradient(teal,skyblue);
+}
+#p2{
+height: 200px;
+background: linear-gradient(to left, grey,black);
+}
+#p3{
+height: 200px;
+background: radial-gradient( yellow, orange, red)
+}
+
+
+
+
+
+
+
+
+
+
+
